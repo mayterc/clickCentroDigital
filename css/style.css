@@ -1,0 +1,35 @@
+header{
+    background-image:url(../imagenes/imm.jpg);
+    background-color: rgba(0,0,0,0.7);
+    padding: 35px 0px 40px 0px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.encabezado{
+    background-color: rgba(1,1,1, 0.6);
+    color:seashell;
+    text-align: center;
+
+}
+ h1{
+    font-size: 50px;
+    letter-spacing: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+nav{
+    background-color:black;
+    color: white;
+    padding: 15px;
+    align-items: center;
+}
+nav a{
+    margin: 10px;
+    color: white;
+}
+
+nav :hover{
+    color: gray;
+}
+
+
